@@ -10,4 +10,4 @@ This app uses Handlebars, MySQL, Node, Express, and a homemade ORM to create a b
 
 ![burger video](/public/assets/img/markdown.gif)
 
-The application can be found running live on Heroku at: [EatDaBurger](https://guarded-eyrie-63823.herokuapp.com/)
+The application can be found running live on Heroku at: [EatDaBurger](https://whispering-fortress-95987.herokuapp.com/)
